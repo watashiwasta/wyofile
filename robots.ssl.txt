@@ -1,0 +1,5 @@
+Sitemap: https://wyofile.com/sitemap.xml
+Sitemap: https://wyofile.com/news-sitemap.xml
+# START YOAST BLOCK
+
+# END YOAST BLOCK
